@@ -34,29 +34,7 @@ It allows users to **browse, play, and navigate music tracks** with a sleek mode
 - **Navigation Buttons**: Step forward/backward with hover animations
 - **Background**: Gradient dark theme for a premium music experience
 
----
 
-## 📂 Project Structure
-
-MusicPlayer/
-│
-├── MusicPlayer/            # Django project folder
-│   ├── settings.py
-│   └── urls.py
-│
-├── App/                    # Main Django app
-│   ├── models.py           # Song, Artist, Lyrics models
-│   ├── views.py            # Views for displaying music and lyrics
-│   ├── templates/
-│   │   ├── index.html
-│   │   └── main.html
-│   └── static/
-│       ├── style.css       # Custom CSS (updated UI)
-│       └── script.js       # JS for audio controls
-│
-├── db.sqlite3              # Database
-├── manage.py               # Django manage script
-└── README.md
 ## 💻 Technologies Used
 
 **Backend:** Django, SQLite
