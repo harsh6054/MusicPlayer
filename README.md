@@ -7,7 +7,6 @@ It allows users to **browse, play, and navigate music tracks** with a sleek mode
 ---
 
 ## 🛠 Features
-
 - **Django backend** for managing music tracks, artists, and lyrics.
 - **Pagination** for navigating between songs.
 - **Audio playback** using MediaElement.js with:
@@ -23,9 +22,7 @@ It allows users to **browse, play, and navigate music tracks** with a sleek mode
   - Dark theme with gradient backgrounds
   - Colorful, animated progress bar
 - **Customizable and easily extendable**
-
 ---
-
 ## 🎨 UI/UX Highlights
 
 - **Lyrics Font**: Playfair Display (italicized) with neon gradient and glow effect
