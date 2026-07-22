@@ -5,7 +5,6 @@ This is a **web-based music player** built using **Django** and **MediaElement.j
 It allows users to **browse, play, and navigate music tracks** with a sleek modern interface. The project also displays **lyrics with a stylish neon gradient and glow effect**, providing a visually appealing music experience.
 
 ---
-
 ## 🛠 Features
 - **Django backend** for managing music tracks, artists, and lyrics.
 - **Pagination** for navigating between songs.
@@ -30,7 +29,6 @@ It allows users to **browse, play, and navigate music tracks** with a sleek mode
 - **Progress & Volume Bars**: Gradient colors matching neon theme
 - **Navigation Buttons**: Step forward/backward with hover animations
 - **Background**: Gradient dark theme for a premium music experience
-
 
 ## 💻 Technologies Used
 
